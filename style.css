@@ -1,0 +1,31 @@
+.heading
+{
+    font-size: 25px;
+    box-shadow: 5px 10px 15px gray;
+}
+
+.note_heading
+{
+    font-size: 15px;
+}
+
+canvas
+{
+    background-color: lightcoral;
+    border-radius: 5px solid darkslategray;
+    position: center;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    background-color: gray;
+    box-shadow: 5px 10px 15px black;
+}
+h4
+{
+    font-size: 13px;
+    background-color: gray;
+    box-shadow: 5px 10px 15px gray;
+}
